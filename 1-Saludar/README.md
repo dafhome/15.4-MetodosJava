@@ -1,18 +1,12 @@
-## Getting Started
+ 
+1- SALUDAR!
+Pides saludo y nombre (ejemplo: ‘Hola’ y ‘Andrés’)
+Y te responde ‘Hola Andrés’.
+Realizar la función de saludar, de tres maneras diferentes:
+1.1- Llamas a la función, sin parámetros, y sin return, y te hace el programa (resultado ejemplo: ‘Hola
+Andrés’).
+1.2 -- Llamas a la función, con parámetros (saludo y nombre), y sin return, y muestra el resultado
+DENTRO de la función (resultado ejemplo: ‘Hola Andrés’).
+1.3- Llamas a la función, con parámetros (saludo y nombre), y con return, y muestra el resultado
+FUERA de ese método, y dentro del main() (resultado ejemplo: ‘Hola Andrés’).
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).

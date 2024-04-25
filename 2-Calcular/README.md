@@ -1,18 +1,8 @@
-## Getting Started
+2- CALCULAR
+Con switch, preguntar la operación, y con switch envíalo a una función diferente
+( ‘sumar’, ‘restar’, ‘multiplicar’ y ‘dividir’ )que retorne el resultado a la opción del switch y se
+muestre en terminal.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
++EXTRA: Opcional: colocar todo el programa en un bucle que siga funcionando mientras que el usuario no
+escriba “s” (salir).
++EXTRA: usar char y (+, -, *,/)
